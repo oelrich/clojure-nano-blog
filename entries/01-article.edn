@@ -1,0 +1,6 @@
+[:article
+ [:h1 "My first blog entry"]
+ [:p "With some introductory text."]
+ [:section
+  [:h2 "A section!"]
+  [:p "With even more text."]]]
